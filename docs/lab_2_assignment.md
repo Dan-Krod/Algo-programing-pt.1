@@ -1,4 +1,4 @@
-# Lab Assignment 2: Function tabulation using conditional logic and power series expansion 
+# Lab Assignment 2: Function tabulation and power series expansion 
 
 ## 🎯 Topic
 
@@ -45,5 +45,4 @@ code/lab_2/
 
 ---
 
-📎 *Make sure your code outputs each `x` and corresponding function result clearly, and includes “Done :)” at the end of execution for both parts.*
-```
+📎 *📎 Reinforces core numerical programming skills in Python through conditional logic, iterative function evaluation, and custom control of series approximation accuracy.*
