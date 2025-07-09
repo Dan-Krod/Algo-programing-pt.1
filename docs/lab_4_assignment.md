@@ -70,4 +70,4 @@ code/lab_4/
 
 ---
 
-📎 *📎 Covers core OOP techniques in Python through class-based modeling, encapsulation, and object behavior management.*
+📎 *Covers core OOP techniques in Python through class-based modeling, encapsulation, and object behavior management.*
