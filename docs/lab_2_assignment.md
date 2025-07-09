@@ -45,4 +45,4 @@ code/lab_2/
 
 ---
 
-📎 *📎 Reinforces core numerical programming skills in Python through conditional logic, iterative function evaluation, and custom control of series approximation accuracy.*
+📎 *Reinforces core numerical programming skills in Python through conditional logic, iterative function evaluation, and custom control of series approximation accuracy.*
