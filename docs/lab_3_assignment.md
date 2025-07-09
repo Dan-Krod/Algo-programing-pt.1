@@ -69,4 +69,4 @@ Each implementation must support the following logic:
 
 ---
 
-📎 *Demonstrates practical application of Python OOP principles through custom class construction, attribute encapsulation, and object behavior definition.*
+📎 *Exercises core skills in list handling, conditional branching, and string formatting by simulating realistic text generation logic.*
