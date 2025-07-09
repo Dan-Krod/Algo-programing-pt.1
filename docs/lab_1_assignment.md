@@ -45,10 +45,6 @@ code/lab_1/
       <td><code>task_6.py</code></td>
       <td>Script for computing a mathematical expression using <code>math</code></td>
     </tr>
-    <tr>
-      <td><code>requirements.txt</code></td>
-      <td>File generated from <code>pip freeze</code> output</td>
-    </tr>
   </tbody>
 </table>
 
@@ -84,7 +80,7 @@ code/lab_1/
      - `is_red = True`, `is_blue = True` with boolean OR
    - `part2_math.py` should implement:
      - For `y = 6.153`, `z = 1.001`, compute  
-       \[
-       \tan(\cos(z)) + \frac{4 \cdot \sin(z)}{\cos(y)} + \sqrt{z \cdot y}
-       \]
+        `tan(cos(z)) + (4 * sin(z)) / cos(y) + sqrt(z * y)`
      - Use the `math` module
+
+📎 *Covers Python scripting fundamentals, environment setup, HTTP interactions, and core logical/math operations through simple but instructive examples.*
