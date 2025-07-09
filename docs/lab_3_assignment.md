@@ -70,4 +70,3 @@ Each implementation must support the following logic:
 ---
 
 📎 *This lab showcases your ability to write flexible formatting logic using only fundamental Python tools. The different variants illustrate various programming styles and interaction methods.*
-```
