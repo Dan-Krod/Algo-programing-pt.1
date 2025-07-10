@@ -30,7 +30,7 @@ code/lab_4/
   </thead>
   <tbody>
     <tr>
-      <td><code>lab_4.py</code></td>
+      <td><code>lab_4_class_zoo.py</code></td>
       <td>Contains the complete implementation of the <code>Zoo</code> class and test objects</td>
     </tr>
   </tbody>
